@@ -1,2 +1,2 @@
 # BA775-B02-Project
-Evaluating the Reliability and Popularity of Airbnb Rental Listings
+Contributors: Chuheng Yu, Lingxuan Wang, Nan Dong, Xinyuan Xu
